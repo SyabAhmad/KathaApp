@@ -4,11 +4,13 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/AndroidDevelopment/KathaApp/app/src/main/res/layout-v21/activity_firstactivity.xml" value="0.18" />
-        <entry key="..\:/AndroidDevelopment/KathaApp/app/src/main/res/layout/activity_customization.xml" value="0.1" />
+        <entry key="..\:/AndroidDevelopment/KathaApp/app/src/main/res/layout/activity_customization.xml" value="0.2" />
         <entry key="..\:/AndroidDevelopment/KathaApp/app/src/main/res/layout/activity_first.xml" value="0.18" />
         <entry key="..\:/AndroidDevelopment/KathaApp/app/src/main/res/layout/activity_firstactivity.xml" value="0.2" />
         <entry key="..\:/AndroidDevelopment/KathaApp/app/src/main/res/layout/activity_getstarted.xml" value="0.1486854034451496" />
-        <entry key="..\:/AndroidDevelopment/KathaApp/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/AndroidDevelopment/KathaApp/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/AndroidDevelopment/KathaApp/app/src/main/res/layout/activity_new_amount.xml" value="0.1718683197947841" />
+        <entry key="..\:/AndroidDevelopment/KathaApp/app/src/main/res/layout/activity_splash_screen.xml" value="0.1718683197947841" />
       </map>
     </option>
   </component>
